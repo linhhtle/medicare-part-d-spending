@@ -16,6 +16,10 @@ This academic team project used PySpark to analyze approximately 80.7 million re
 
 Spending per claim reflects the mix of drugs prescribed as well as drug costs. These descriptive comparisons cannot isolate the reason costs changed.
 
+## Explore the analysis
+
+- [Project notebook](QST6-Paying-More-for-Similar-Drugs.ipynb)
+
 ## Data source
 
 [CMS Medicare Part D Prescribers](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers).
